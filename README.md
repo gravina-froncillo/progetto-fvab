@@ -43,3 +43,7 @@ Classificazione mediante rete neurale con input dataset in .csv basato su datase
 * il salvataggio del modello di training in formato .h5;
 * grafici accuracy e loss;
 * report risultati.
+
+## 9. relazione
+
+Bozza relazione progetto
