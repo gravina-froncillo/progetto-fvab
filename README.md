@@ -1,5 +1,4 @@
-# progetto-fvab
-## gender classification mediante spider web
+# progetto fvab - gender classification mediante spider web
 
 ## 1. analisi-dataset
 
