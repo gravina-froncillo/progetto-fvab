@@ -24,12 +24,12 @@ import string
 
 #--La funzione scelta consente di poter scegliere con quale tipologia di ragnatela avviare il pre-processing--#
 def scelta():
-    print("E' possibile scegliere tra 4 configurazione: ")
-    print("   1 - 4 cerchi 4 settori Variante 4")
-    print("   2 - 4 cerchi 4 settori Variante 2")
-    print("   3 - 4 cerchi 3 settori ")
-    print("   4 - 5 cerchi 4 settori")
-    numero = int(input("Quale configurazione scegli: "))
+    print("E' possibile scegliere tra 4 configurazioni: ")
+    print("   1 - 4 cerchi 4 fette Variante 4")
+    print("   2 - 4 cerchi 4 fette Variante 2")
+    print("   3 - 4 cerchi 3 fette ")
+    print("   4 - 5 cerchi 4 fette")
+    numero = int(input("Quale configurazione scegli? "))
     if numero > 4 or numero < 1:
         print("Parametro errato.")
         exit(0)
