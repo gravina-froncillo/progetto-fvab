@@ -44,6 +44,14 @@ Classificazione mediante rete neurale con input dataset in .csv basato su datase
 * grafici accuracy e loss;
 * report risultati.
 
-## 9. relazione
+## 9. jupyter-notebook
 
-Bozza relazione progetto
+file jupyter notebook
+
+## 10. relazione.docx
+
+Relazione progetto
+
+## 11. presentazione_16_9.pptx
+
+Presentazione progetto
